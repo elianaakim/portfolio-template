@@ -237,4 +237,10 @@ button:focus {
   transform: scale(1.05);
 }
 
+.row {
+  display: flex
+}
 
+.column{
+  flex:50%
+}
